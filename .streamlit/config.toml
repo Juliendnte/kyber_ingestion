@@ -1,0 +1,11 @@
+[server]
+# 20 Go — couvre une vidéo 1080p de 3h15 (~11 Go typiquement)
+maxUploadSize = 20000
+maxMessageSize = 20000
+
+[theme]
+base = "dark"
+primaryColor = "#FF6B35"
+backgroundColor = "#1A1A2E"
+secondaryBackgroundColor = "#16213E"
+textColor = "#E8E8E8"
